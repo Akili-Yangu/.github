@@ -1,7 +1,6 @@
 
-```md
-![AKILI-YANGU-logo-102415.jpg](https://postimg.cc/KRC2YBBD)
-```
+![AKILI-YANGU-logo-102415.jpg](https://github.com/Akili-Yangu/.github/blob/main/profile/AKILI%20YANGU%20logo_102415.jpg)
+
 
 # **Akili Yangu**
 
@@ -27,7 +26,7 @@ We are dedicated to closing the mental health care gap across Africa by offering
 
 Akili yangu is more than a service — it is a growing community where Africans can find understanding, support, and empowerment throughout their mental health journey.
 
-## **Meet Nana — Your AI Companion**
+## **Meet Nana Your AI Companion**
 
 At the heart of Akili yangu is **Nana**, your always-available, AI-powered confidant and guide. Nana provides:
 
